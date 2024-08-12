@@ -1,0 +1,10 @@
+https://example.com/images/image1.jpg
+https://example.net/pictures/pic2.png
+https://example.io/photos/photo3.jpeg
+https://example.org/graphics/graphic4.gif
+https://example.edu/images/image5.bmp
+https://example.com/images/image6.tif
+https://example.net/pictures/pic7.webp
+https://example.io/photos/photo8.ico
+https://example.org/graphics/graphic9.svg
+https://example.edu/images/image10.jpg
