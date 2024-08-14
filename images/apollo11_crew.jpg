@@ -51,7 +51,7 @@
 <style id='wp-block-library-inline-css'>
 :root{--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,161;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px;--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:#9747ff}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip:rect(1px,1px,1px,1px);-webkit-clip-path:inset(50%);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip:auto!important;-webkit-clip-path:none;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
 </style>
-<link rel='stylesheet' id='all-css-2' href='https://www.nasa.gov/_static/??-eJyFjMEOgjAQRH/IdRE0eDF+y1JWbNhuCdvS+Pc0ePHmaTLzJg/LAi5qYk3oxNeAkGGRPHk1zFZGg9dKgUtc52/HIXsZ0dJH2M7O7IQ/kvTmwIZKRlgZThIHElDa/l55q+thfIbHpW+7a9/e7s0O5FY7/w==' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2' href='https://www.nasa.gov/_static/??-eJyFjEEOgzAMBD9U12pRgQviLSa4NKrjIJwQ8ftG7aU3TqvdWQ2WFVzUxJrQia8BIcMqefFqmK3MBs+NApe4vX8dp+xlRkuHsF2d2QX/JOnFgQ2VjLAyXCROJKC0n155r+vXOIbh1t2bR9+3TfcB5Hk8Cg==' type='text/css' media='all' />
 <script type="text/javascript" src="https://www.nasa.gov/_static/??-eJyNzk0OAiEMBeALyZCZGIwL41kqNgyTtigU/04vRheuxKR53Xyvqb2eTBRP9YjFLm3OFfP9swaOMixlZX8hwzFkUPzGPomiqNUZuVUECrx6gdIByAhcOpBRqtEUAmFHUr0leecfD2hkfCTpHS0zZDQl+QjU6J5342Yat5Nzbr08Abb5cLE="  defer></script><link rel="https://api.w.org/" href="https://www.nasa.gov/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.nasa.gov/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 6.5.5" />
 	<link rel="preload" fetchpriority="high" href="https://www.nasa.gov/wp-content/client-mu-plugins/uswds-framework/uswds/fonts/public-sans/PublicSans-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
@@ -359,7 +359,7 @@ for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g
 		</ul>
 	</div>
 </div>
-<div class="global-nav__home global-nav__features global-nav__col grid-col-9 desktop:padding-left-105"><h3 class="heading-12 color-carbon-40 text-uppercase margin-bottom-2">Featured</h3><div class="grid-row"><a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/heres-how-curiositys-sky-crane-changed-the-way-nasa-explores-mars/" class="hds-content-card hds-content-card-home grid-col-12 desktop:grid-col-4 color-spacesuit-white padding-x-0 desktop:padding-right-3 margin-bottom-4" target="_self"><div class="grid-col margin-bottom-2"><div class="bg-carbon-black minh-mobile"><img width="1024" height="576" src="https://www.nasa.gov/wp-content/uploads/2016/07/pia14839.jpg?w=1024" class="hds-media-background z-100" alt="An artist’s concept of the 2012 Mars Curiosity Landing using the skycrane maneuver, with the rover hanging below the hovering spacecraft via three nylon tethers." style="object-position: 0% 0%" decoding="async" fetchpriority="high" srcset="https://www.nasa.gov/wp-content/uploads/2016/07/pia14839.jpg 1547w, https://www.nasa.gov/wp-content/uploads/2016/07/pia14839.jpg?resize=300,169 300w, https://www.nasa.gov/wp-content/uploads/2016/07/pia14839.jpg?resize=768,432 768w, https://www.nasa.gov/wp-content/uploads/2016/07/pia14839.jpg?resize=1024,576 1024w, https://www.nasa.gov/wp-content/uploads/2016/07/pia14839.jpg?resize=1536,864 1536w, https://www.nasa.gov/wp-content/uploads/2016/07/pia14839.jpg?resize=400,225 400w, https://www.nasa.gov/wp-content/uploads/2016/07/pia14839.jpg?resize=600,337 600w, https://www.nasa.gov/wp-content/uploads/2016/07/pia14839.jpg?resize=900,506 900w, https://www.nasa.gov/wp-content/uploads/2016/07/pia14839.jpg?resize=1200,675 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></div></div><div class="grid-col padding-left-0"><div class="label margin-bottom-1">5 min read</div><div class="margin-bottom-2"><h3 class="heading-16 line-height-md">Here’s How Curiosity’s Sky Crane Changed the Way NASA Explores Mars</h3></div><div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40"><span class="display-flex flex-align-center margin-right-2"><svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"></path><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"></path></g></g></svg><span>article</span></span><span>6 days ago</span></div></div></a><a href="https://science.nasa.gov/earth/nasa-epa-tackle-no2-air-pollution-in-overburdened-communities/" class="hds-content-card hds-content-card-home grid-col-12 desktop:grid-col-4 color-spacesuit-white padding-x-0 desktop:padding-right-3 margin-bottom-4" target="_self"><div class="grid-col margin-bottom-2"><div class="bg-carbon-black minh-mobile"><img src="https://science.nasa.gov/wp-content/uploads/2024/08/no2-us-2005-2022-no-dates-399-print.jpg" alt="NASA, EPA Tackle NO2 Air Pollution in Overburdened Communities" class="hds-media-background z-100" /></div></div><div class="grid-col padding-left-0"><div class="label margin-bottom-1">4 min read</div><div class="margin-bottom-2"><h3 class="heading-16 line-height-md">NASA, EPA Tackle NO2 Air Pollution in Overburdened Communities</h3></div><div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40"><span class="display-flex flex-align-center margin-right-2"><svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"></path><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"></path></g></g></svg><span>article</span></span><span>1 week ago</span></div></div></a><a href="https://www.nasa.gov/technology/goddard-tech/nasa-optical-navigation-tech-could-streamline-planetary-exploration/" class="hds-content-card hds-content-card-home grid-col-12 desktop:grid-col-4 color-spacesuit-white padding-x-0 desktop:padding-right-3 margin-bottom-4" target="_self"><div class="grid-col margin-bottom-2"><div class="bg-carbon-black minh-mobile"><img width="1024" height="576" src="https://www.nasa.gov/wp-content/uploads/2020/02/southpolecrater_v07_0.jpg?w=1024" class="hds-media-background z-100" alt="EVA Astronauts working at Lunar South Pole crater. NASA artist concept of Lunar exploration activities." style="object-position: 0% 0%" decoding="async" srcset="https://www.nasa.gov/wp-content/uploads/2020/02/southpolecrater_v07_0.jpg 3840w, https://www.nasa.gov/wp-content/uploads/2020/02/southpolecrater_v07_0.jpg?resize=300,169 300w, https://www.nasa.gov/wp-content/uploads/2020/02/southpolecrater_v07_0.jpg?resize=768,432 768w, https://www.nasa.gov/wp-content/uploads/2020/02/southpolecrater_v07_0.jpg?resize=1024,576 1024w, https://www.nasa.gov/wp-content/uploads/2020/02/southpolecrater_v07_0.jpg?resize=1536,864 1536w, https://www.nasa.gov/wp-content/uploads/2020/02/southpolecrater_v07_0.jpg?resize=2048,1152 2048w, https://www.nasa.gov/wp-content/uploads/2020/02/southpolecrater_v07_0.jpg?resize=400,225 400w, https://www.nasa.gov/wp-content/uploads/2020/02/southpolecrater_v07_0.jpg?resize=600,338 600w, https://www.nasa.gov/wp-content/uploads/2020/02/southpolecrater_v07_0.jpg?resize=900,506 900w, https://www.nasa.gov/wp-content/uploads/2020/02/southpolecrater_v07_0.jpg?resize=1200,675 1200w, https://www.nasa.gov/wp-content/uploads/2020/02/southpolecrater_v07_0.jpg?resize=2000,1125 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></div></div><div class="grid-col padding-left-0"><div class="label margin-bottom-1">5 min read</div><div class="margin-bottom-2"><h3 class="heading-16 line-height-md">NASA Optical Navigation Tech Could Streamline Planetary Exploration</h3></div><div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40"><span class="display-flex flex-align-center margin-right-2"><svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"></path><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"></path></g></g></svg><span>article</span></span><span>6 days ago</span></div></div></a></div></div><div class="global-nav__secondary global-nav__col grid-col-5 desktop:padding-left-105" hidden>
+<div class="global-nav__home global-nav__features global-nav__col grid-col-9 desktop:padding-left-105"><h3 class="heading-12 color-carbon-40 text-uppercase margin-bottom-2">Featured</h3><div class="grid-row"><a href="https://science.nasa.gov/learning-resources/science-activation/new-tempo-cosmic-data-story-makes-air-quality-data-publicly-available/" class="hds-content-card hds-content-card-home grid-col-12 desktop:grid-col-4 color-spacesuit-white padding-x-0 desktop:padding-right-3 margin-bottom-4" target="_self"><div class="grid-col margin-bottom-2"><div class="bg-carbon-black minh-mobile"><img src="https://science.nasa.gov/wp-content/uploads/2024/08/2024-07-27-tempo-ds-screenshot-patricia-udomprasert.png" alt="New TEMPO Cosmic Data Story Makes Air Quality Data Publicly Available" class="hds-media-background z-100" /></div></div><div class="grid-col padding-left-0"><div class="label margin-bottom-1">3 min read</div><div class="margin-bottom-2"><h3 class="heading-16 line-height-md">New TEMPO Cosmic Data Story Makes Air Quality Data Publicly Available</h3></div><div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40"><span class="display-flex flex-align-center margin-right-2"><svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"></path><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"></path></g></g></svg><span>article</span></span><span>1 day ago</span></div></div></a><a href="https://www.nasa.gov/aeronautics/nasas-x-59-progresses-through-tests-on-the-path-to-flight/" class="hds-content-card hds-content-card-home grid-col-12 desktop:grid-col-4 color-spacesuit-white padding-x-0 desktop:padding-right-3 margin-bottom-4" target="_self"><div class="grid-col margin-bottom-2"><div class="bg-carbon-black minh-mobile"><img width="1024" height="683" src="https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?w=1024" class="hds-media-background z-100" alt="The tail of the X-59 at sunrise." style="object-position: 0% 0%" decoding="async" fetchpriority="high" srcset="https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg 6645w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=300,200 300w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=768,512 768w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=1024,683 1024w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=1536,1024 1536w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=2048,1365 2048w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=400,267 400w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=600,400 600w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=900,600 900w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=1200,800 1200w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=2000,1333 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></div></div><div class="grid-col padding-left-0"><div class="label margin-bottom-1">3 min read</div><div class="margin-bottom-2"><h3 class="heading-16 line-height-md">NASA’s X-59 Progresses Through Tests on the Path to Flight</h3></div><div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40"><span class="display-flex flex-align-center margin-right-2"><svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"></path><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"></path></g></g></svg><span>article</span></span><span>1 day ago</span></div></div></a><a href="https://www.nasa.gov/missions/station/iss-research/cold-atom-laboratory/nasa-demonstrates-ultra-cool-quantum-sensor-for-first-time-in-space/" class="hds-content-card hds-content-card-home grid-col-12 desktop:grid-col-4 color-spacesuit-white padding-x-0 desktop:padding-right-3 margin-bottom-4" target="_self"><div class="grid-col margin-bottom-2"><div class="bg-carbon-black minh-mobile"><img width="1024" height="683" src="https://www.nasa.gov/wp-content/uploads/2024/08/1-main-cal-image.jpg?w=1024" class="hds-media-background z-100" alt="NASA’s Cold Atom Lab, shown where it’s installed aboard the International Space Station" style="object-position: 0% 0%" decoding="async" srcset="https://www.nasa.gov/wp-content/uploads/2024/08/1-main-cal-image.jpg 5568w, https://www.nasa.gov/wp-content/uploads/2024/08/1-main-cal-image.jpg?resize=300,200 300w, https://www.nasa.gov/wp-content/uploads/2024/08/1-main-cal-image.jpg?resize=768,512 768w, https://www.nasa.gov/wp-content/uploads/2024/08/1-main-cal-image.jpg?resize=1024,683 1024w, https://www.nasa.gov/wp-content/uploads/2024/08/1-main-cal-image.jpg?resize=1536,1024 1536w, https://www.nasa.gov/wp-content/uploads/2024/08/1-main-cal-image.jpg?resize=2048,1365 2048w, https://www.nasa.gov/wp-content/uploads/2024/08/1-main-cal-image.jpg?resize=400,267 400w, https://www.nasa.gov/wp-content/uploads/2024/08/1-main-cal-image.jpg?resize=600,400 600w, https://www.nasa.gov/wp-content/uploads/2024/08/1-main-cal-image.jpg?resize=900,600 900w, https://www.nasa.gov/wp-content/uploads/2024/08/1-main-cal-image.jpg?resize=1200,800 1200w, https://www.nasa.gov/wp-content/uploads/2024/08/1-main-cal-image.jpg?resize=2000,1333 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></div></div><div class="grid-col padding-left-0"><div class="label margin-bottom-1">5 min read</div><div class="margin-bottom-2"><h3 class="heading-16 line-height-md">NASA Demonstrates ‘Ultra-Cool’ Quantum Sensor for First Time in Space</h3></div><div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40"><span class="display-flex flex-align-center margin-right-2"><svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"></path><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"></path></g></g></svg><span>article</span></span><span>1 day ago</span></div></div></a></div></div><div class="global-nav__secondary global-nav__col grid-col-5 desktop:padding-left-105" hidden>
 	<div class="global-nav__secondary-wrapper global-nav__wrapper">
 
 		<!-- This is just a mobile button -->
@@ -381,18 +381,18 @@ for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g
 
 <div class="global-nav__tertiary global-nav__col grid-col-4 usa-col" hidden>
 	<div class="global-nav__tertiary-submenu global-nav__wrapper" style="max-width: 440px" submenu-id="global-nav-missions"><h3 class="heading-12 color-carbon-40 text-uppercase margin-bottom-2">Featured</h3>
-<a href="https://www.nasa.gov/missions/artemis/artemis-2/nasa-teams-change-brakes-to-keep-artemis-crew-safe/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
+<a href="https://www.nasa.gov/missions/roman-space-telescope/primary-instrument-for-roman-space-telescope-arrives-at-nasa-goddard/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
 	<div class="grid-col">
 		<div class="width-full bg-carbon-black minh-15">
-			<img width="1920" height="1280" src="https://images-assets.nasa.gov/image/KSC-20240124-PH-ILW01_0055/KSC-20240124-PH-ILW01_0055~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint" class="hds-media-background z-100" alt="" style="object-position: 0% 0%" decoding="async" srcset="https://images-assets.nasa.gov/image/KSC-20240124-PH-ILW01_0055/KSC-20240124-PH-ILW01_0055~large.jpg?w=1920&amp;h=1280&amp;fit=crop&amp;crop=faces%2Cfocalpoint 1920w, https://images-assets.nasa.gov/image/KSC-20240124-PH-ILW01_0055/KSC-20240124-PH-ILW01_0055~large.jpg?w=300&amp;h=200&amp;fit=crop&amp;crop=faces%2Cfocalpoint 300w, https://images-assets.nasa.gov/image/KSC-20240124-PH-ILW01_0055/KSC-20240124-PH-ILW01_0055~large.jpg?w=768&amp;h=512&amp;fit=crop&amp;crop=faces%2Cfocalpoint 768w, https://images-assets.nasa.gov/image/KSC-20240124-PH-ILW01_0055/KSC-20240124-PH-ILW01_0055~large.jpg?w=1024&amp;h=683&amp;fit=crop&amp;crop=faces%2Cfocalpoint 1024w, https://images-assets.nasa.gov/image/KSC-20240124-PH-ILW01_0055/KSC-20240124-PH-ILW01_0055~large.jpg?w=1536&amp;h=1024&amp;fit=crop&amp;crop=faces%2Cfocalpoint 1536w, https://images-assets.nasa.gov/image/KSC-20240124-PH-ILW01_0055/KSC-20240124-PH-ILW01_0055~large.jpg?w=400&amp;h=267&amp;fit=crop&amp;crop=faces%2Cfocalpoint 400w, https://images-assets.nasa.gov/image/KSC-20240124-PH-ILW01_0055/KSC-20240124-PH-ILW01_0055~large.jpg?w=600&amp;h=400&amp;fit=crop&amp;crop=faces%2Cfocalpoint 600w, https://images-assets.nasa.gov/image/KSC-20240124-PH-ILW01_0055/KSC-20240124-PH-ILW01_0055~large.jpg?w=900&amp;h=600&amp;fit=crop&amp;crop=faces%2Cfocalpoint 900w, https://images-assets.nasa.gov/image/KSC-20240124-PH-ILW01_0055/KSC-20240124-PH-ILW01_0055~large.jpg?w=1200&amp;h=800&amp;fit=crop&amp;crop=faces%2Cfocalpoint 1200w" sizes="(max-width: 1920px) 100vw, 1920px" />		</div>
+			<img width="819" height="1024" src="https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?w=819" class="hds-media-background z-100" alt="A photo of Roman&#039;s Wide Field Instrument" style="object-position: 0% 0%" decoding="async" srcset="https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg 4349w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=240,300 240w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=768,960 768w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=819,1024 819w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=1229,1536 1229w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=1638,2048 1638w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=320,400 320w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=480,600 480w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=720,900 720w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=960,1200 960w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=1600,2000 1600w" sizes="(max-width: 819px) 100vw, 819px" />		</div>
 	</div>
 
 	<div class="grid-col padding-left-105">
 
-		<div class="label margin-bottom-1">4 min read</div>
+		<div class="label margin-bottom-1">6 min read</div>
 
 		<div class="margin-bottom-2">
-			<h3 class="heading-16 line-height-md">NASA Teams Change Brakes to Keep Artemis Crew Safe</h3>
+			<h3 class="heading-16 line-height-md">Primary Instrument for Roman Space Telescope Arrives at NASA Goddard</h3>
 		</div>
 
 		<div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40">
@@ -402,24 +402,24 @@ for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g
 				<span>article</span>
 			</span>
 
-			<span>4 days ago</span>
+			<span>1 day ago</span>
 
 		</div>
 	</div>
 </a>
 
-<a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-tests-deployment-of-roman-space-telescopes-visor/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
+<a href="https://www.nasa.gov/aeronautics/nasas-x-59-progresses-through-tests-on-the-path-to-flight/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
 	<div class="grid-col">
 		<div class="width-full bg-carbon-black minh-15">
-			<img width="1024" height="768" src="https://www.nasa.gov/wp-content/uploads/2024/08/dac-240722-001.jpg?w=1024" class="hds-media-background z-100" alt="Roman&#039;s Deployable Aperture Cover" style="object-position: 0% 0%" decoding="async" srcset="https://www.nasa.gov/wp-content/uploads/2024/08/dac-240722-001.jpg 8272w, https://www.nasa.gov/wp-content/uploads/2024/08/dac-240722-001.jpg?resize=300,225 300w, https://www.nasa.gov/wp-content/uploads/2024/08/dac-240722-001.jpg?resize=768,576 768w, https://www.nasa.gov/wp-content/uploads/2024/08/dac-240722-001.jpg?resize=1024,768 1024w, https://www.nasa.gov/wp-content/uploads/2024/08/dac-240722-001.jpg?resize=1536,1151 1536w, https://www.nasa.gov/wp-content/uploads/2024/08/dac-240722-001.jpg?resize=2048,1535 2048w, https://www.nasa.gov/wp-content/uploads/2024/08/dac-240722-001.jpg?resize=400,300 400w, https://www.nasa.gov/wp-content/uploads/2024/08/dac-240722-001.jpg?resize=600,450 600w, https://www.nasa.gov/wp-content/uploads/2024/08/dac-240722-001.jpg?resize=900,675 900w, https://www.nasa.gov/wp-content/uploads/2024/08/dac-240722-001.jpg?resize=1200,899 1200w, https://www.nasa.gov/wp-content/uploads/2024/08/dac-240722-001.jpg?resize=2000,1499 2000w" sizes="(max-width: 1024px) 100vw, 1024px" />		</div>
+			<img width="1024" height="683" src="https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?w=1024" class="hds-media-background z-100" alt="The tail of the X-59 at sunrise." style="object-position: 0% 0%" decoding="async" srcset="https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg 6645w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=300,200 300w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=768,512 768w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=1024,683 1024w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=1536,1024 1536w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=2048,1365 2048w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=400,267 400w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=600,400 600w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=900,600 900w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=1200,800 1200w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=2000,1333 2000w" sizes="(max-width: 1024px) 100vw, 1024px" />		</div>
 	</div>
 
 	<div class="grid-col padding-left-105">
 
-		<div class="label margin-bottom-1">5 min read</div>
+		<div class="label margin-bottom-1">3 min read</div>
 
 		<div class="margin-bottom-2">
-			<h3 class="heading-16 line-height-md">NASA Tests Deployment of Roman Space Telescope&#8217;s &#8216;Visor&#8217;</h3>
+			<h3 class="heading-16 line-height-md">NASA’s X-59 Progresses Through Tests on the Path to Flight</h3>
 		</div>
 
 		<div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40">
@@ -429,24 +429,24 @@ for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g
 				<span>article</span>
 			</span>
 
-			<span>4 days ago</span>
+			<span>1 day ago</span>
 
 		</div>
 	</div>
 </a>
 
-<a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/heres-how-curiositys-sky-crane-changed-the-way-nasa-explores-mars/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
+<a href="https://science.nasa.gov/learning-resources/science-activation/new-tempo-cosmic-data-story-makes-air-quality-data-publicly-available/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
 	<div class="grid-col">
 		<div class="width-full bg-carbon-black minh-15">
-			<img width="1024" height="576" src="https://www.nasa.gov/wp-content/uploads/2016/07/pia14839.jpg?w=1024" class="hds-media-background z-100" alt="An artist’s concept of the 2012 Mars Curiosity Landing using the skycrane maneuver, with the rover hanging below the hovering spacecraft via three nylon tethers." style="object-position: 0% 0%" decoding="async" srcset="https://www.nasa.gov/wp-content/uploads/2016/07/pia14839.jpg 1547w, https://www.nasa.gov/wp-content/uploads/2016/07/pia14839.jpg?resize=300,169 300w, https://www.nasa.gov/wp-content/uploads/2016/07/pia14839.jpg?resize=768,432 768w, https://www.nasa.gov/wp-content/uploads/2016/07/pia14839.jpg?resize=1024,576 1024w, https://www.nasa.gov/wp-content/uploads/2016/07/pia14839.jpg?resize=1536,864 1536w, https://www.nasa.gov/wp-content/uploads/2016/07/pia14839.jpg?resize=400,225 400w, https://www.nasa.gov/wp-content/uploads/2016/07/pia14839.jpg?resize=600,337 600w, https://www.nasa.gov/wp-content/uploads/2016/07/pia14839.jpg?resize=900,506 900w, https://www.nasa.gov/wp-content/uploads/2016/07/pia14839.jpg?resize=1200,675 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />		</div>
+			<img src="https://science.nasa.gov/wp-content/uploads/2024/08/2024-07-27-tempo-ds-screenshot-patricia-udomprasert.png" alt="New TEMPO Cosmic Data Story Makes Air Quality Data Publicly Available" class="hds-media-background z-100" />		</div>
 	</div>
 
 	<div class="grid-col padding-left-105">
 
-		<div class="label margin-bottom-1">5 min read</div>
+		<div class="label margin-bottom-1">3 min read</div>
 
 		<div class="margin-bottom-2">
-			<h3 class="heading-16 line-height-md">Here’s How Curiosity’s Sky Crane Changed the Way NASA Explores Mars</h3>
+			<h3 class="heading-16 line-height-md">New TEMPO Cosmic Data Story Makes Air Quality Data Publicly Available</h3>
 		</div>
 
 		<div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40">
@@ -456,7 +456,7 @@ for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g
 				<span>article</span>
 			</span>
 
-			<span>6 days ago</span>
+			<span>1 day ago</span>
 
 		</div>
 	</div>
@@ -483,7 +483,7 @@ for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g
 				<span>article</span>
 			</span>
 
-			<span>7 days ago</span>
+			<span>1 week ago</span>
 
 		</div>
 	</div>
@@ -543,6 +543,60 @@ for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g
 	</div>
 </a>
 </div><div class="global-nav__tertiary-submenu global-nav__wrapper" style="max-width: 440px" submenu-id="global-nav-earth-climate"><h3 class="heading-12 color-carbon-40 text-uppercase margin-bottom-2">Highlights</h3>
+<a href="https://science.nasa.gov/earth-science/decadal-surveys/decadal-stv/ascent/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
+	<div class="grid-col">
+		<div class="width-full bg-carbon-black minh-15">
+			<img src="https://science.nasa.gov/wp-content/uploads/2024/08/stv-airborne-campaign.png" alt="Airborne Surface, Cryosphere, Ecosystem, and Nearshore Topography" class="hds-media-background z-100" />		</div>
+	</div>
+
+	<div class="grid-col padding-left-105">
+
+		<div class="label margin-bottom-1">1 min read</div>
+
+		<div class="margin-bottom-2">
+			<h3 class="heading-16 line-height-md">Airborne Surface, Cryosphere, Ecosystem, and Nearshore Topography</h3>
+		</div>
+
+		<div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40">
+
+			<span class="display-flex flex-align-center margin-right-2">
+				<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"></path><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"></path></g></g></svg>
+				<span>article</span>
+			</span>
+
+			<span>1 day ago</span>
+
+		</div>
+	</div>
+</a>
+
+<a href="https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-42-a-30-understanding-changes-in-high-mountain-asia-deferred-to-roses-25/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
+	<div class="grid-col">
+		<div class="width-full bg-carbon-black minh-15">
+			<img src="https://science.nasa.gov/wp-content/uploads/2023/12/189_Karakoram1280.jpeg" alt="Amendment 42: A.30 Understanding Changes in High Mountain Asia Deferred to ROSES-25" class="hds-media-background z-100" />		</div>
+	</div>
+
+	<div class="grid-col padding-left-105">
+
+		<div class="label margin-bottom-1">2 min read</div>
+
+		<div class="margin-bottom-2">
+			<h3 class="heading-16 line-height-md">Amendment 42: A.30 Understanding Changes in High Mountain Asia Deferred to ROSES-25</h3>
+		</div>
+
+		<div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40">
+
+			<span class="display-flex flex-align-center margin-right-2">
+				<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"></path><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"></path></g></g></svg>
+				<span>article</span>
+			</span>
+
+			<span>1 day ago</span>
+
+		</div>
+	</div>
+</a>
+
 <a href="https://science.nasa.gov/citizen-science/citizen-science-earth-projects/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
 	<div class="grid-col">
 		<div class="width-full bg-carbon-black minh-15">
@@ -564,66 +618,66 @@ for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g
 				<span>article</span>
 			</span>
 
-			<span>16 hours ago</span>
-
-		</div>
-	</div>
-</a>
-
-<a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-aircraft-gathers-150-hours-of-data-to-better-understand-earth/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
-	<div class="grid-col">
-		<div class="width-full bg-carbon-black minh-15">
-			<img width="1920" height="1279" src="https://images-assets.nasa.gov/image/AFRC2021-0139-02/AFRC2021-0139-02~large.jpg?w=1920&amp;h=1279&amp;fit=clip&amp;crop=faces%2Cfocalpoint" class="hds-media-background z-100" alt="" style="object-position: 0% 0%" decoding="async" srcset="https://images-assets.nasa.gov/image/AFRC2021-0139-02/AFRC2021-0139-02~large.jpg?w=1920&amp;h=1279&amp;fit=crop&amp;crop=faces%2Cfocalpoint 1920w, https://images-assets.nasa.gov/image/AFRC2021-0139-02/AFRC2021-0139-02~large.jpg?w=300&amp;h=200&amp;fit=crop&amp;crop=faces%2Cfocalpoint 300w, https://images-assets.nasa.gov/image/AFRC2021-0139-02/AFRC2021-0139-02~large.jpg?w=768&amp;h=512&amp;fit=crop&amp;crop=faces%2Cfocalpoint 768w, https://images-assets.nasa.gov/image/AFRC2021-0139-02/AFRC2021-0139-02~large.jpg?w=1024&amp;h=682&amp;fit=crop&amp;crop=faces%2Cfocalpoint 1024w, https://images-assets.nasa.gov/image/AFRC2021-0139-02/AFRC2021-0139-02~large.jpg?w=1536&amp;h=1023&amp;fit=crop&amp;crop=faces%2Cfocalpoint 1536w, https://images-assets.nasa.gov/image/AFRC2021-0139-02/AFRC2021-0139-02~large.jpg?w=400&amp;h=266&amp;fit=crop&amp;crop=faces%2Cfocalpoint 400w, https://images-assets.nasa.gov/image/AFRC2021-0139-02/AFRC2021-0139-02~large.jpg?w=600&amp;h=400&amp;fit=crop&amp;crop=faces%2Cfocalpoint 600w, https://images-assets.nasa.gov/image/AFRC2021-0139-02/AFRC2021-0139-02~large.jpg?w=900&amp;h=600&amp;fit=crop&amp;crop=faces%2Cfocalpoint 900w, https://images-assets.nasa.gov/image/AFRC2021-0139-02/AFRC2021-0139-02~large.jpg?w=1200&amp;h=799&amp;fit=crop&amp;crop=faces%2Cfocalpoint 1200w" sizes="(max-width: 1920px) 100vw, 1920px" />		</div>
-	</div>
-
-	<div class="grid-col padding-left-105">
-
-		<div class="label margin-bottom-1">3 min read</div>
-
-		<div class="margin-bottom-2">
-			<h3 class="heading-16 line-height-md">NASA Aircraft Gathers 150 Hours of Data to Better Understand Earth</h3>
-		</div>
-
-		<div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40">
-
-			<span class="display-flex flex-align-center margin-right-2">
-				<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"></path><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"></path></g></g></svg>
-				<span>article</span>
-			</span>
-
-			<span>5 days ago</span>
-
-		</div>
-	</div>
-</a>
-
-<a href="https://www.nasa.gov/earth/tundra-vegetation-to-grow-taller-greener-through-2100-nasa-study-finds/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
-	<div class="grid-col">
-		<div class="width-full bg-carbon-black minh-15">
-			<img width="1024" height="576" src="https://www.nasa.gov/wp-content/uploads/2024/08/murphy-dome-scenics.jpg?w=1024" class="hds-media-background z-100" alt="A landscape image. In the foreground on the left side of the image is a single small evergreen tree, with pine needles only at the top of the tree. The rest of the foreground is mostly a green/brown grass. The background shows some extending landscapes, but primarily is taken up by the sky, a light blue color that is covered by white and gray puffy clouds." style="object-position: 0% 0%" decoding="async" srcset="https://www.nasa.gov/wp-content/uploads/2024/08/murphy-dome-scenics.jpg 1920w, https://www.nasa.gov/wp-content/uploads/2024/08/murphy-dome-scenics.jpg?resize=300,169 300w, https://www.nasa.gov/wp-content/uploads/2024/08/murphy-dome-scenics.jpg?resize=768,432 768w, https://www.nasa.gov/wp-content/uploads/2024/08/murphy-dome-scenics.jpg?resize=1024,576 1024w, https://www.nasa.gov/wp-content/uploads/2024/08/murphy-dome-scenics.jpg?resize=1536,864 1536w, https://www.nasa.gov/wp-content/uploads/2024/08/murphy-dome-scenics.jpg?resize=400,225 400w, https://www.nasa.gov/wp-content/uploads/2024/08/murphy-dome-scenics.jpg?resize=600,338 600w, https://www.nasa.gov/wp-content/uploads/2024/08/murphy-dome-scenics.jpg?resize=900,506 900w, https://www.nasa.gov/wp-content/uploads/2024/08/murphy-dome-scenics.jpg?resize=1200,675 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />		</div>
-	</div>
-
-	<div class="grid-col padding-left-105">
-
-		<div class="label margin-bottom-1">4 min read</div>
-
-		<div class="margin-bottom-2">
-			<h3 class="heading-16 line-height-md">Tundra Vegetation to Grow Taller, Greener Through 2100, NASA Study Finds</h3>
-		</div>
-
-		<div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40">
-
-			<span class="display-flex flex-align-center margin-right-2">
-				<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"></path><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"></path></g></g></svg>
-				<span>article</span>
-			</span>
-
-			<span>7 days ago</span>
+			<span>2 days ago</span>
 
 		</div>
 	</div>
 </a>
 </div><div class="global-nav__tertiary-submenu global-nav__wrapper" style="max-width: 440px" submenu-id="global-nav-solar-system"><h3 class="heading-12 color-carbon-40 text-uppercase margin-bottom-2">Highlights</h3>
+<a href="https://science.nasa.gov/learning-resources/science-activation/solar-eclipse-data-story-helps-the-public-visualize-the-april-2024-total-eclipse/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
+	<div class="grid-col">
+		<div class="width-full bg-carbon-black minh-15">
+			<img src="https://science.nasa.gov/wp-content/uploads/2024/08/2024-04-08-total-eclipse-ds-in-action-patricia-udomprasert.jpeg" alt="Solar Eclipse Data Story Helps the Public Visualize the April 2024 Total Eclipse" class="hds-media-background z-100" />		</div>
+	</div>
+
+	<div class="grid-col padding-left-105">
+
+		<div class="label margin-bottom-1">2 min read</div>
+
+		<div class="margin-bottom-2">
+			<h3 class="heading-16 line-height-md">Solar Eclipse Data Story Helps the Public Visualize the April 2024 Total Eclipse</h3>
+		</div>
+
+		<div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40">
+
+			<span class="display-flex flex-align-center margin-right-2">
+				<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"></path><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"></path></g></g></svg>
+				<span>article</span>
+			</span>
+
+			<span>4 hours ago</span>
+
+		</div>
+	</div>
+</a>
+
+<a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-to-begin-long-climb-up-martian-crater-rim/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
+	<div class="grid-col">
+		<div class="width-full bg-carbon-black minh-15">
+			<img width="1024" height="268" src="https://www.nasa.gov/wp-content/uploads/2024/08/1-pia-26373-5000px.jpg?w=1024" class="hds-media-background z-100" alt="" style="object-position: 0% 0%" decoding="async" srcset="https://www.nasa.gov/wp-content/uploads/2024/08/1-pia-26373-5000px.jpg 5000w, https://www.nasa.gov/wp-content/uploads/2024/08/1-pia-26373-5000px.jpg?resize=300,79 300w, https://www.nasa.gov/wp-content/uploads/2024/08/1-pia-26373-5000px.jpg?resize=768,201 768w, https://www.nasa.gov/wp-content/uploads/2024/08/1-pia-26373-5000px.jpg?resize=1024,268 1024w, https://www.nasa.gov/wp-content/uploads/2024/08/1-pia-26373-5000px.jpg?resize=1536,403 1536w, https://www.nasa.gov/wp-content/uploads/2024/08/1-pia-26373-5000px.jpg?resize=2048,537 2048w, https://www.nasa.gov/wp-content/uploads/2024/08/1-pia-26373-5000px.jpg?resize=400,105 400w, https://www.nasa.gov/wp-content/uploads/2024/08/1-pia-26373-5000px.jpg?resize=600,157 600w, https://www.nasa.gov/wp-content/uploads/2024/08/1-pia-26373-5000px.jpg?resize=900,236 900w, https://www.nasa.gov/wp-content/uploads/2024/08/1-pia-26373-5000px.jpg?resize=1200,315 1200w, https://www.nasa.gov/wp-content/uploads/2024/08/1-pia-26373-5000px.jpg?resize=2000,524 2000w" sizes="(max-width: 1024px) 100vw, 1024px" />		</div>
+	</div>
+
+	<div class="grid-col padding-left-105">
+
+		<div class="label margin-bottom-1">5 min read</div>
+
+		<div class="margin-bottom-2">
+			<h3 class="heading-16 line-height-md">NASA’s Perseverance Rover to Begin Long Climb Up Martian Crater Rim</h3>
+		</div>
+
+		<div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40">
+
+			<span class="display-flex flex-align-center margin-right-2">
+				<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"></path><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"></path></g></g></svg>
+				<span>article</span>
+			</span>
+
+			<span>6 hours ago</span>
+
+		</div>
+	</div>
+</a>
+
 <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-a-supermoon-blue-moon/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
 	<div class="grid-col">
 		<div class="width-full bg-carbon-black minh-15">
@@ -645,66 +699,39 @@ for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g
 				<span>article</span>
 			</span>
 
-			<span>19 hours ago</span>
-
-		</div>
-	</div>
-</a>
-
-<a href="https://science.nasa.gov/missions/artemis/clps/viper/nasa-explores-industry-partner-interest-in-using-viper-moon-rover/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
-	<div class="grid-col">
-		<div class="width-full bg-carbon-black minh-15">
-			<img src="https://science.nasa.gov/wp-content/uploads/2024/08/viper-jsc.jpg" alt="NASA Explores Industry, Partner Interest in Using VIPER Moon Rover" class="hds-media-background z-100" />		</div>
-	</div>
-
-	<div class="grid-col padding-left-105">
-
-		<div class="label margin-bottom-1">2 min read</div>
-
-		<div class="margin-bottom-2">
-			<h3 class="heading-16 line-height-md">NASA Explores Industry, Partner Interest in Using VIPER Moon Rover</h3>
-		</div>
-
-		<div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40">
-
-			<span class="display-flex flex-align-center margin-right-2">
-				<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"></path><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"></path></g></g></svg>
-				<span>article</span>
-			</span>
-
-			<span>4 days ago</span>
-
-		</div>
-	</div>
-</a>
-
-<a href="https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-41-draft-f-13-lunar-terrain-vehicle-instruments-program-released-for-community-comment/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
-	<div class="grid-col">
-		<div class="width-full bg-carbon-black minh-15">
-			<img src="https://science.nasa.gov/wp-content/uploads/2023/03/2-apollo-15-on-moon-1.jpg" alt="Amendment 41: DRAFT F.13 Lunar Terrain Vehicle Instruments Program Released for Community Comment." class="hds-media-background z-100" />		</div>
-	</div>
-
-	<div class="grid-col padding-left-105">
-
-		<div class="label margin-bottom-1">2 min read</div>
-
-		<div class="margin-bottom-2">
-			<h3 class="heading-16 line-height-md">Amendment 41: DRAFT F.13 Lunar Terrain Vehicle Instruments Program Released for Community Comment.</h3>
-		</div>
-
-		<div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40">
-
-			<span class="display-flex flex-align-center margin-right-2">
-				<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"></path><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"></path></g></g></svg>
-				<span>article</span>
-			</span>
-
-			<span>4 days ago</span>
+			<span>2 days ago</span>
 
 		</div>
 	</div>
 </a>
 </div><div class="global-nav__tertiary-submenu global-nav__wrapper" style="max-width: 440px" submenu-id="global-nav-universe"><h3 class="heading-12 color-carbon-40 text-uppercase margin-bottom-2">Featured</h3>
+<a href="https://www.nasa.gov/missions/roman-space-telescope/primary-instrument-for-roman-space-telescope-arrives-at-nasa-goddard/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
+	<div class="grid-col">
+		<div class="width-full bg-carbon-black minh-15">
+			<img width="819" height="1024" src="https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?w=819" class="hds-media-background z-100" alt="A photo of Roman&#039;s Wide Field Instrument" style="object-position: 0% 0%" decoding="async" srcset="https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg 4349w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=240,300 240w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=768,960 768w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=819,1024 819w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=1229,1536 1229w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=1638,2048 1638w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=320,400 320w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=480,600 480w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=720,900 720w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=960,1200 960w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=1600,2000 1600w" sizes="(max-width: 819px) 100vw, 819px" />		</div>
+	</div>
+
+	<div class="grid-col padding-left-105">
+
+		<div class="label margin-bottom-1">6 min read</div>
+
+		<div class="margin-bottom-2">
+			<h3 class="heading-16 line-height-md">Primary Instrument for Roman Space Telescope Arrives at NASA Goddard</h3>
+		</div>
+
+		<div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40">
+
+			<span class="display-flex flex-align-center margin-right-2">
+				<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"></path><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"></path></g></g></svg>
+				<span>article</span>
+			</span>
+
+			<span>1 day ago</span>
+
+		</div>
+	</div>
+</a>
+
 <a href="https://www.nasa.gov/people-of-nasa/goddard-people/regina-caputo-charts-the-future-of-high-energy-astrophysics/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
 	<div class="grid-col">
 		<div class="width-full bg-carbon-black minh-15">
@@ -726,7 +753,7 @@ for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g
 				<span>article</span>
 			</span>
 
-			<span>4 days ago</span>
+			<span>5 days ago</span>
 
 		</div>
 	</div>
@@ -753,24 +780,24 @@ for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g
 				<span>article</span>
 			</span>
 
-			<span>4 days ago</span>
+			<span>5 days ago</span>
 
 		</div>
 	</div>
 </a>
-
-<a href="https://science.nasa.gov/open-science/exoplanet-future-citizen-science/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
+</div><div class="global-nav__tertiary-submenu global-nav__wrapper" style="max-width: 440px" submenu-id="global-nav-science"><h3 class="heading-12 color-carbon-40 text-uppercase margin-bottom-2">Highlights</h3>
+<a href="https://science.nasa.gov/learning-resources/science-activation/solar-eclipse-data-story-helps-the-public-visualize-the-april-2024-total-eclipse/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
 	<div class="grid-col">
 		<div class="width-full bg-carbon-black minh-15">
-			<img src="https://science.nasa.gov/wp-content/uploads/2024/08/pia20690orig.jpg" alt="How NASA Citizen Science Fuels Future Exoplanet Research" class="hds-media-background z-100" />		</div>
+			<img src="https://science.nasa.gov/wp-content/uploads/2024/08/2024-04-08-total-eclipse-ds-in-action-patricia-udomprasert.jpeg" alt="Solar Eclipse Data Story Helps the Public Visualize the April 2024 Total Eclipse" class="hds-media-background z-100" />		</div>
 	</div>
 
 	<div class="grid-col padding-left-105">
 
-		<div class="label margin-bottom-1">5 min read</div>
+		<div class="label margin-bottom-1">2 min read</div>
 
 		<div class="margin-bottom-2">
-			<h3 class="heading-16 line-height-md">How NASA Citizen Science Fuels Future Exoplanet Research</h3>
+			<h3 class="heading-16 line-height-md">Solar Eclipse Data Story Helps the Public Visualize the April 2024 Total Eclipse</h3>
 		</div>
 
 		<div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40">
@@ -780,16 +807,70 @@ for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g
 				<span>article</span>
 			</span>
 
-			<span>5 days ago</span>
+			<span>4 hours ago</span>
 
 		</div>
 	</div>
 </a>
-</div><div class="global-nav__tertiary-submenu global-nav__wrapper" style="max-width: 440px" submenu-id="global-nav-science"><h3 class="heading-12 color-carbon-40 text-uppercase margin-bottom-2">Highlights</h3>
-<a href="https://science.nasa.gov/learning-resources/science-activation/earth-educators-rendezvous-with-infiniscope-and-tour-it/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
+
+<a href="https://science.nasa.gov/earth-science/decadal-surveys/decadal-stv/ascent/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
 	<div class="grid-col">
 		<div class="width-full bg-carbon-black minh-15">
-			<img src="https://science.nasa.gov/wp-content/uploads/2024/08/scraping-jessica-swann.png" alt="Earth Educators Rendezvous with Infiniscope and Tour It" class="hds-media-background z-100" />		</div>
+			<img src="https://science.nasa.gov/wp-content/uploads/2024/08/stv-airborne-campaign.png" alt="Airborne Surface, Cryosphere, Ecosystem, and Nearshore Topography" class="hds-media-background z-100" />		</div>
+	</div>
+
+	<div class="grid-col padding-left-105">
+
+		<div class="label margin-bottom-1">1 min read</div>
+
+		<div class="margin-bottom-2">
+			<h3 class="heading-16 line-height-md">Airborne Surface, Cryosphere, Ecosystem, and Nearshore Topography</h3>
+		</div>
+
+		<div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40">
+
+			<span class="display-flex flex-align-center margin-right-2">
+				<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"></path><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"></path></g></g></svg>
+				<span>article</span>
+			</span>
+
+			<span>1 day ago</span>
+
+		</div>
+	</div>
+</a>
+
+<a href="https://www.nasa.gov/missions/roman-space-telescope/primary-instrument-for-roman-space-telescope-arrives-at-nasa-goddard/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
+	<div class="grid-col">
+		<div class="width-full bg-carbon-black minh-15">
+			<img width="819" height="1024" src="https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?w=819" class="hds-media-background z-100" alt="A photo of Roman&#039;s Wide Field Instrument" style="object-position: 0% 0%" decoding="async" srcset="https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg 4349w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=240,300 240w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=768,960 768w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=819,1024 819w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=1229,1536 1229w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=1638,2048 1638w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=320,400 320w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=480,600 480w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=720,900 720w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=960,1200 960w, https://www.nasa.gov/wp-content/uploads/2024/08/wfiin-ssdif-240813-0031.jpg?resize=1600,2000 1600w" sizes="(max-width: 819px) 100vw, 819px" />		</div>
+	</div>
+
+	<div class="grid-col padding-left-105">
+
+		<div class="label margin-bottom-1">6 min read</div>
+
+		<div class="margin-bottom-2">
+			<h3 class="heading-16 line-height-md">Primary Instrument for Roman Space Telescope Arrives at NASA Goddard</h3>
+		</div>
+
+		<div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40">
+
+			<span class="display-flex flex-align-center margin-right-2">
+				<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"></path><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"></path></g></g></svg>
+				<span>article</span>
+			</span>
+
+			<span>1 day ago</span>
+
+		</div>
+	</div>
+</a>
+</div><div class="global-nav__tertiary-submenu global-nav__wrapper" style="max-width: 440px" submenu-id="global-nav-aeronautics"><h3 class="heading-12 color-carbon-40 text-uppercase margin-bottom-2">Highlights</h3>
+<a href="https://www.nasa.gov/aeronautics/nasas-x-59-progresses-through-tests-on-the-path-to-flight/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
+	<div class="grid-col">
+		<div class="width-full bg-carbon-black minh-15">
+			<img width="1024" height="683" src="https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?w=1024" class="hds-media-background z-100" alt="The tail of the X-59 at sunrise." style="object-position: 0% 0%" decoding="async" srcset="https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg 6645w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=300,200 300w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=768,512 768w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=1024,683 1024w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=1536,1024 1536w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=2048,1365 2048w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=400,267 400w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=600,400 600w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=900,600 900w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=1200,800 1200w, https://www.nasa.gov/wp-content/uploads/2024/08/afrc2023-0198-01.jpg?resize=2000,1333 2000w" sizes="(max-width: 1024px) 100vw, 1024px" />		</div>
 	</div>
 
 	<div class="grid-col padding-left-105">
@@ -797,7 +878,7 @@ for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g
 		<div class="label margin-bottom-1">3 min read</div>
 
 		<div class="margin-bottom-2">
-			<h3 class="heading-16 line-height-md">Earth Educators Rendezvous with Infiniscope and Tour It</h3>
+			<h3 class="heading-16 line-height-md">NASA’s X-59 Progresses Through Tests on the Path to Flight</h3>
 		</div>
 
 		<div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40">
@@ -807,66 +888,12 @@ for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g
 				<span>article</span>
 			</span>
 
-			<span>20 hours ago</span>
+			<span>1 day ago</span>
 
 		</div>
 	</div>
 </a>
 
-<a href="https://science.nasa.gov/learning-resources/science-activation/astro-campers-scope-out-new-worlds/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
-	<div class="grid-col">
-		<div class="width-full bg-carbon-black minh-15">
-			<img src="https://science.nasa.gov/wp-content/uploads/2024/08/img-20240612-095617685-alex-lewis.jpg" alt="Astro Campers SCoPE Out New Worlds" class="hds-media-background z-100" />		</div>
-	</div>
-
-	<div class="grid-col padding-left-105">
-
-		<div class="label margin-bottom-1">2 min read</div>
-
-		<div class="margin-bottom-2">
-			<h3 class="heading-16 line-height-md">Astro Campers SCoPE Out New Worlds</h3>
-		</div>
-
-		<div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40">
-
-			<span class="display-flex flex-align-center margin-right-2">
-				<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"></path><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"></path></g></g></svg>
-				<span>article</span>
-			</span>
-
-			<span>4 days ago</span>
-
-		</div>
-	</div>
-</a>
-
-<a href="https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-41-draft-f-13-lunar-terrain-vehicle-instruments-program-released-for-community-comment/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
-	<div class="grid-col">
-		<div class="width-full bg-carbon-black minh-15">
-			<img src="https://science.nasa.gov/wp-content/uploads/2023/03/2-apollo-15-on-moon-1.jpg" alt="Amendment 41: DRAFT F.13 Lunar Terrain Vehicle Instruments Program Released for Community Comment." class="hds-media-background z-100" />		</div>
-	</div>
-
-	<div class="grid-col padding-left-105">
-
-		<div class="label margin-bottom-1">2 min read</div>
-
-		<div class="margin-bottom-2">
-			<h3 class="heading-16 line-height-md">Amendment 41: DRAFT F.13 Lunar Terrain Vehicle Instruments Program Released for Community Comment.</h3>
-		</div>
-
-		<div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40">
-
-			<span class="display-flex flex-align-center margin-right-2">
-				<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"></path><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"></path></g></g></svg>
-				<span>article</span>
-			</span>
-
-			<span>4 days ago</span>
-
-		</div>
-	</div>
-</a>
-</div><div class="global-nav__tertiary-submenu global-nav__wrapper" style="max-width: 440px" submenu-id="global-nav-aeronautics"><h3 class="heading-12 color-carbon-40 text-uppercase margin-bottom-2">Highlights</h3>
 <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-aircraft-gathers-150-hours-of-data-to-better-understand-earth/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
 	<div class="grid-col">
 		<div class="width-full bg-carbon-black minh-15">
@@ -888,7 +915,7 @@ for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g
 				<span>article</span>
 			</span>
 
-			<span>5 days ago</span>
+			<span>6 days ago</span>
 
 		</div>
 	</div>
@@ -915,24 +942,24 @@ for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g
 				<span>article</span>
 			</span>
 
-			<span>7 days ago</span>
+			<span>1 week ago</span>
 
 		</div>
 	</div>
 </a>
-
-<a href="https://www.nasa.gov/directorates/smd/earth-science-division/current-events-nasa-and-usgs-find-a-new-way-to-measure-river-flows/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
+</div><div class="global-nav__tertiary-submenu global-nav__wrapper" style="max-width: 440px" submenu-id="global-nav-technology"><h3 class="heading-12 color-carbon-40 text-uppercase margin-bottom-2">Highlights</h3>
+<a href="https://science.nasa.gov/rps/winners-of-nasas-power-to-explore-student-challenge-tour-nasas-glenn-research-center-and-meet-nasa-engineers/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
 	<div class="grid-col">
 		<div class="width-full bg-carbon-black minh-15">
-			<img width="1024" height="576" src="https://www.nasa.gov/wp-content/uploads/2024/08/streamflow-gif.gif?w=1024" class="hds-media-background z-100" alt="" style="object-position: 0% 0%" decoding="async" />		</div>
+			<img src="https://science.nasa.gov/wp-content/uploads/2024/08/pte-2024-winners-grc-e1723651909904.jpg" alt="Winners of NASA’s Power to Explore Student Challenge Tour NASA’s Glenn Research Center and Meet NASA Engineers" class="hds-media-background z-100" />		</div>
 	</div>
 
 	<div class="grid-col padding-left-105">
 
-		<div class="label margin-bottom-1">5 min read</div>
+		<div class="label margin-bottom-1">2 min read</div>
 
 		<div class="margin-bottom-2">
-			<h3 class="heading-16 line-height-md">‘Current’ Events: NASA and USGS Find a New Way to Measure River Flows</h3>
+			<h3 class="heading-16 line-height-md">Winners of NASA’s Power to Explore Student Challenge Tour NASA’s Glenn Research Center and Meet NASA Engineers</h3>
 		</div>
 
 		<div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40">
@@ -942,12 +969,12 @@ for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g
 				<span>article</span>
 			</span>
 
-			<span>1 week ago</span>
+			<span>4 hours ago</span>
 
 		</div>
 	</div>
 </a>
-</div><div class="global-nav__tertiary-submenu global-nav__wrapper" style="max-width: 440px" submenu-id="global-nav-technology"><h3 class="heading-12 color-carbon-40 text-uppercase margin-bottom-2">Highlights</h3>
+
 <a href="https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-41-draft-f-13-lunar-terrain-vehicle-instruments-program-released-for-community-comment/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
 	<div class="grid-col">
 		<div class="width-full bg-carbon-black minh-15">
@@ -969,7 +996,7 @@ for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g
 				<span>article</span>
 			</span>
 
-			<span>4 days ago</span>
+			<span>5 days ago</span>
 
 		</div>
 	</div>
@@ -987,33 +1014,6 @@ for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g
 
 		<div class="margin-bottom-2">
 			<h3 class="heading-16 line-height-md">NASA Tests Deployment of Roman Space Telescope&#8217;s &#8216;Visor&#8217;</h3>
-		</div>
-
-		<div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40">
-
-			<span class="display-flex flex-align-center margin-right-2">
-				<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"></path><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"></path></g></g></svg>
-				<span>article</span>
-			</span>
-
-			<span>4 days ago</span>
-
-		</div>
-	</div>
-</a>
-
-<a href="https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-39-b-9-heliophysics-low-cost-access-to-space-proposal-due-date-delay/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
-	<div class="grid-col">
-		<div class="width-full bg-carbon-black minh-15">
-			<img src="https://science.nasa.gov/wp-content/uploads/2023/04/sounding_rocket_endurance_1-jpg.webp" alt="Amendment 39: B.9 Heliophysics Low Cost Access to Space Proposal Due Date Delay" class="hds-media-background z-100" />		</div>
-	</div>
-
-	<div class="grid-col padding-left-105">
-
-		<div class="label margin-bottom-1">2 min read</div>
-
-		<div class="margin-bottom-2">
-			<h3 class="heading-16 line-height-md">Amendment 39: B.9 Heliophysics Low Cost Access to Space Proposal Due Date Delay</h3>
 		</div>
 
 		<div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40">
@@ -1054,18 +1054,45 @@ for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g
 	</div>
 </a>
 </div></div><div class="global-nav__tertiary-submenu global-nav__wrapper" style="max-width: 440px" submenu-id="global-nav-about-nasa"><h3 class="heading-12 color-carbon-40 text-uppercase margin-bottom-2">Featured</h3>
-<a href="https://www.nasa.gov/centers-and-facilities/wallops/this-rocks-nasa-is-sending-student-science-to-space/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
+<a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-challenge-seeks-cooler-solutions-for-deep-space-exploration/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
 	<div class="grid-col">
 		<div class="width-full bg-carbon-black minh-15">
-			<img width="1024" height="683" src="https://www.nasa.gov/wp-content/uploads/2024/08/wff-2021-059-030.jpg?w=1024" class="hds-media-background z-100" alt="A sounding rocket is being raised on the launch rail, it is still in a horizontal position. The red a silver rocket contrasts against the bright blue sky behind, and green foliage can be seen at the bottom of the photo" style="object-position: 0% 0%" decoding="async" srcset="https://www.nasa.gov/wp-content/uploads/2024/08/wff-2021-059-030.jpg 2400w, https://www.nasa.gov/wp-content/uploads/2024/08/wff-2021-059-030.jpg?resize=300,200 300w, https://www.nasa.gov/wp-content/uploads/2024/08/wff-2021-059-030.jpg?resize=768,512 768w, https://www.nasa.gov/wp-content/uploads/2024/08/wff-2021-059-030.jpg?resize=1024,683 1024w, https://www.nasa.gov/wp-content/uploads/2024/08/wff-2021-059-030.jpg?resize=1536,1024 1536w, https://www.nasa.gov/wp-content/uploads/2024/08/wff-2021-059-030.jpg?resize=2048,1365 2048w, https://www.nasa.gov/wp-content/uploads/2024/08/wff-2021-059-030.jpg?resize=400,267 400w, https://www.nasa.gov/wp-content/uploads/2024/08/wff-2021-059-030.jpg?resize=600,400 600w, https://www.nasa.gov/wp-content/uploads/2024/08/wff-2021-059-030.jpg?resize=900,600 900w, https://www.nasa.gov/wp-content/uploads/2024/08/wff-2021-059-030.jpg?resize=1200,800 1200w, https://www.nasa.gov/wp-content/uploads/2024/08/wff-2021-059-030.jpg?resize=2000,1333 2000w" sizes="(max-width: 1024px) 100vw, 1024px" />		</div>
+			<img width="1024" height="341" src="https://www.nasa.gov/wp-content/uploads/2024/08/2025-hulc-graphic-banner-image.png?w=1024" class="hds-media-background z-100" alt="Human Lander Challenge (HuLC) banner." style="object-position: 0% 0%" decoding="async" srcset="https://www.nasa.gov/wp-content/uploads/2024/08/2025-hulc-graphic-banner-image.png 1500w, https://www.nasa.gov/wp-content/uploads/2024/08/2025-hulc-graphic-banner-image.png?resize=300,100 300w, https://www.nasa.gov/wp-content/uploads/2024/08/2025-hulc-graphic-banner-image.png?resize=768,256 768w, https://www.nasa.gov/wp-content/uploads/2024/08/2025-hulc-graphic-banner-image.png?resize=1024,341 1024w, https://www.nasa.gov/wp-content/uploads/2024/08/2025-hulc-graphic-banner-image.png?resize=400,133 400w, https://www.nasa.gov/wp-content/uploads/2024/08/2025-hulc-graphic-banner-image.png?resize=600,200 600w, https://www.nasa.gov/wp-content/uploads/2024/08/2025-hulc-graphic-banner-image.png?resize=900,300 900w, https://www.nasa.gov/wp-content/uploads/2024/08/2025-hulc-graphic-banner-image.png?resize=1200,400 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />		</div>
 	</div>
 
 	<div class="grid-col padding-left-105">
 
-		<div class="label margin-bottom-1">4 min read</div>
+		<div class="label margin-bottom-1">3 min read</div>
 
 		<div class="margin-bottom-2">
-			<h3 class="heading-16 line-height-md">This Rocks! NASA is Sending Student Science to Space</h3>
+			<h3 class="heading-16 line-height-md">NASA Challenge Seeks ‘Cooler’ Solutions for Deep Space Exploration</h3>
+		</div>
+
+		<div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40">
+
+			<span class="display-flex flex-align-center margin-right-2">
+				<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"></path><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"></path></g></g></svg>
+				<span>article</span>
+			</span>
+
+			<span>24 hours ago</span>
+
+		</div>
+	</div>
+</a>
+
+<a href="https://science.nasa.gov/missions/artemis/clps/viper/nasa-explores-industry-partner-interest-in-using-viper-moon-rover/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
+	<div class="grid-col">
+		<div class="width-full bg-carbon-black minh-15">
+			<img src="https://science.nasa.gov/wp-content/uploads/2024/08/viper-jsc.jpg" alt="NASA Explores Industry, Partner Interest in Using VIPER Moon Rover" class="hds-media-background z-100" />		</div>
+	</div>
+
+	<div class="grid-col padding-left-105">
+
+		<div class="label margin-bottom-1">2 min read</div>
+
+		<div class="margin-bottom-2">
+			<h3 class="heading-16 line-height-md">NASA Explores Industry, Partner Interest in Using VIPER Moon Rover</h3>
 		</div>
 
 		<div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40">
@@ -1081,37 +1108,10 @@ for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g
 	</div>
 </a>
 
-<a href="https://www.nasa.gov/history/messenger-from-setbacks-to-success/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
+<a href="https://science.nasa.gov/open-science/exoplanet-future-citizen-science/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
 	<div class="grid-col">
 		<div class="width-full bg-carbon-black minh-15">
-			<img width="1024" height="1024" src="https://www.nasa.gov/wp-content/uploads/2017/11/728322main_messenger_orbit_image20130218_2.jpg?w=1024" class="hds-media-background z-100" alt="Colors of the Innermost Planet, Mercury" style="object-position: 0% 0%" decoding="async" srcset="https://www.nasa.gov/wp-content/uploads/2017/11/728322main_messenger_orbit_image20130218_2.jpg 1080w, https://www.nasa.gov/wp-content/uploads/2017/11/728322main_messenger_orbit_image20130218_2.jpg?resize=150,150 150w, https://www.nasa.gov/wp-content/uploads/2017/11/728322main_messenger_orbit_image20130218_2.jpg?resize=300,300 300w, https://www.nasa.gov/wp-content/uploads/2017/11/728322main_messenger_orbit_image20130218_2.jpg?resize=768,768 768w, https://www.nasa.gov/wp-content/uploads/2017/11/728322main_messenger_orbit_image20130218_2.jpg?resize=1024,1024 1024w, https://www.nasa.gov/wp-content/uploads/2017/11/728322main_messenger_orbit_image20130218_2.jpg?resize=50,50 50w, https://www.nasa.gov/wp-content/uploads/2017/11/728322main_messenger_orbit_image20130218_2.jpg?resize=100,100 100w, https://www.nasa.gov/wp-content/uploads/2017/11/728322main_messenger_orbit_image20130218_2.jpg?resize=200,200 200w, https://www.nasa.gov/wp-content/uploads/2017/11/728322main_messenger_orbit_image20130218_2.jpg?resize=400,400 400w, https://www.nasa.gov/wp-content/uploads/2017/11/728322main_messenger_orbit_image20130218_2.jpg?resize=600,600 600w, https://www.nasa.gov/wp-content/uploads/2017/11/728322main_messenger_orbit_image20130218_2.jpg?resize=900,900 900w" sizes="(max-width: 1024px) 100vw, 1024px" />		</div>
-	</div>
-
-	<div class="grid-col padding-left-105">
-
-		<div class="label margin-bottom-1">20 min read</div>
-
-		<div class="margin-bottom-2">
-			<h3 class="heading-16 line-height-md">MESSENGER – From Setbacks to Success</h3>
-		</div>
-
-		<div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40">
-
-			<span class="display-flex flex-align-center margin-right-2">
-				<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"></path><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"></path></g></g></svg>
-				<span>article</span>
-			</span>
-
-			<span>2 weeks ago</span>
-
-		</div>
-	</div>
-</a>
-
-<a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-additive-manufacturing-project-shapes-future-for-agency-industry-rocket-makers/" class="hds-content-card hds-content-card-3 grid-row color-spacesuit-white margin-bottom-4" target="_self">
-	<div class="grid-col">
-		<div class="width-full bg-carbon-black minh-15">
-			<img width="1024" height="576" src="https://www.nasa.gov/wp-content/uploads/2024/08/ramptheader3.jpg?w=1024" class="hds-media-background z-100" alt="" style="object-position: 0% 0%" decoding="async" srcset="https://www.nasa.gov/wp-content/uploads/2024/08/ramptheader3.jpg 1920w, https://www.nasa.gov/wp-content/uploads/2024/08/ramptheader3.jpg?resize=300,169 300w, https://www.nasa.gov/wp-content/uploads/2024/08/ramptheader3.jpg?resize=768,432 768w, https://www.nasa.gov/wp-content/uploads/2024/08/ramptheader3.jpg?resize=1024,576 1024w, https://www.nasa.gov/wp-content/uploads/2024/08/ramptheader3.jpg?resize=1536,864 1536w, https://www.nasa.gov/wp-content/uploads/2024/08/ramptheader3.jpg?resize=400,225 400w, https://www.nasa.gov/wp-content/uploads/2024/08/ramptheader3.jpg?resize=600,338 600w, https://www.nasa.gov/wp-content/uploads/2024/08/ramptheader3.jpg?resize=900,506 900w, https://www.nasa.gov/wp-content/uploads/2024/08/ramptheader3.jpg?resize=1200,675 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />		</div>
+			<img src="https://science.nasa.gov/wp-content/uploads/2024/08/pia20690orig.jpg" alt="How NASA Citizen Science Fuels Future Exoplanet Research" class="hds-media-background z-100" />		</div>
 	</div>
 
 	<div class="grid-col padding-left-105">
@@ -1119,7 +1119,7 @@ for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g
 		<div class="label margin-bottom-1">5 min read</div>
 
 		<div class="margin-bottom-2">
-			<h3 class="heading-16 line-height-md">NASA Additive Manufacturing Project Shapes Future for Agency, Industry Rocket Makers</h3>
+			<h3 class="heading-16 line-height-md">How NASA Citizen Science Fuels Future Exoplanet Research</h3>
 		</div>
 
 		<div class="heading-12 display-flex flex-align-center font-weight-bold text-uppercase margin-bottom-1 color-carbon-40">
@@ -1129,7 +1129,7 @@ for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g
 				<span>article</span>
 			</span>
 
-			<span>2 weeks ago</span>
+			<span>6 days ago</span>
 
 		</div>
 	</div>
